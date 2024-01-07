@@ -1,16 +1,17 @@
-# Joplin Plugin Repository
+# Joplin插件仓库
 
 这是官方的Joplin插件库。每30分钟在整点和半小时更新一次。
 
-## Installation
+## 安装
 
-To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+要安装这些插件，请打开桌面应用程序，然后转到Configuration屏幕中的“plugins”部分。然后，您可以搜索任何插件并从那里安装它。
 
-## Plugins
 
-This repository contains the following plugins:
+## 插件
 
-<!-- PLUGIN_LIST -->
+这个存储库包含以下插件:
+
+<!-- 插件列表 -->
 | &nbsp; | &nbsp; | Name  | Version | Description | Author |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.3 | Turns ABC text notation into sheet music | Laurent Cozic |
