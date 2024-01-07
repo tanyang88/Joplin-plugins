@@ -1,6 +1,6 @@
 # Joplin Plugin Repository
 
-This is the official Joplin Plugin Repository. It is updated every 30 minutes on the hour and half-hour.
+这是官方的Joplin插件库。每30分钟在整点和半小时更新一次。
 
 ## Installation
 
